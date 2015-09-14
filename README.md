@@ -38,6 +38,10 @@ The guide below gets you started quickly.  Later, check out the [best practices]
 
 * ```$ jaws dash```
 
+This will create a new jaws project, create a lambda function and endpoint, which you can immediately deploy via
+`jaws dash`.  After deployment is complete, you will be given a url and you can access your new lambda at
+`YOUR_URL/users/create`
+
 ## Where do I go from here?
 
 Check out our [docs](./docs/) and [wiki](https://github.com/jaws-stack/JAWS/wiki), especially the [best practices](https://github.com/jaws-framework/JAWS/wiki/Best-practices) and [FAQ](https://github.com/jaws-stack/JAWS/wiki/FAQ) pages
