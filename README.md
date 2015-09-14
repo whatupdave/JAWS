@@ -25,7 +25,7 @@ Graphics coming soon...
 
 ## Quick Start
 
-This guide gets you started quickly.  Later, check out the [best practices](https://github.com/jaws-stack/JAWS/wiki/v1:best-practices) guide in our  [wiki](https://github.com/jaws-stack/JAWS/wiki) for tips on security and more.
+This guide gets you started quickly.  Later, check out the [best practices](https://github.com/jaws-framework/JAWS/wiki/Best-practices) guide in our  [wiki](https://github.com/jaws-stack/JAWS/wiki) for tips on security and more.
 
 ### Install
 
@@ -53,7 +53,7 @@ These 3 steps will only have to be done once across all your JAWS projects in an
 
 ## Where do I go from here?
 
-Check out our [docs](./docs/) and [wiki](https://github.com/jaws-stack/JAWS/wiki), especially the [best practices](https://github.com/jaws-stack/JAWS/wiki/v1:best-practices) and [FAQ](https://github.com/jaws-stack/JAWS/wiki/FAQ) pages
+Check out our [docs](./docs/) and [wiki](https://github.com/jaws-stack/JAWS/wiki), especially the [best practices](https://github.com/jaws-framework/JAWS/wiki/Best-practices) and [FAQ](https://github.com/jaws-stack/JAWS/wiki/FAQ) pages
 
 Once you become familar with JAWS, you can read the JAWS [plug-in module guide](./docs/plugin-module-guide.md) to start contributing JAWS modules to the community.
 
